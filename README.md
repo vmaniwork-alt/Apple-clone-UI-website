@@ -1,3 +1,4 @@
+ HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Apple-clone-UI-website
+A fully responsive Apple homepage clone built using React + Vite + Tailwind CSS. This project recreates the modern, minimal, and elegant UI of Apple’s official website with smooth animations, responsive design, and optimized performance.
+ 3cac9d15da62a7e25d7a077594b0451a07b5f226
